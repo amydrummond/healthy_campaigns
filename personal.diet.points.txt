@@ -1,0 +1,12 @@
+personal.diet	personal.diet.points
+Yes	10
+No	0
+	
+	
+	
+	
+	
+	
+	
+	
+	

@@ -1,0 +1,12 @@
+sugar	sugar.points
+Yes	-5
+No	0
+	
+	
+	
+	
+	
+	
+	
+	
+	

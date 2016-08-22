@@ -1,0 +1,10 @@
+exercise.time	exercise.points
+Less than 15 minutes	0
+15 minutes	3
+45 minutes	9
+30 minutes	8
+60 minutes or more	10
+	
+	
+	
+	

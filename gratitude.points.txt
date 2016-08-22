@@ -1,0 +1,12 @@
+gratitude	gratitude.points
+I felt grateful to someone.	3
+I thanked someone sincerely and not perfunctorily.	3
+I sent an email or a physical thank-you note to someone.	6
+I missed this today.	0
+	
+	
+	
+	
+	
+	
+	

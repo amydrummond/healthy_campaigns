@@ -1,0 +1,12 @@
+processed.foods	processed.foods.points
+Yes	-5
+No	0
+	
+	
+	
+	
+	
+	
+	
+	
+	

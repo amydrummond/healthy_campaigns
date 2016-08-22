@@ -1,0 +1,12 @@
+distance.goal	distance.goal.points
+Yes	5
+No	0
+	
+	
+	
+	
+	
+	
+	
+	
+	

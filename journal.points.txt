@@ -1,0 +1,10 @@
+journal	journal.points
+Yes	5
+No	0
+	
+	
+	
+	
+	
+	
+	

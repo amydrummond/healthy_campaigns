@@ -1,0 +1,14 @@
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/veggie.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/fruit.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/exercise.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/journal.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/sleep.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/water.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/quiet.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/personal.diet.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/distance.goal.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/compliment.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/gratitude.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/alcohol.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/processed.foods.points.txt
+https://raw.githubusercontent.com/amydrummond/healthy_campaigns/master/sugar.points.txt
